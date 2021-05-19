@@ -1,0 +1,5 @@
+main: de.rexlmanu.playertrading.PlayerTradingPlugin
+name: PlayerTrading
+version: 1.0
+api-version: 1.15
+author: rexlManu
